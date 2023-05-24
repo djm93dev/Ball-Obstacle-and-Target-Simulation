@@ -1,4 +1,9 @@
-## Ball, Obstacle, and Target Simulation
+<h1 align="center">
+    Ball, Obstacle, and Target Simulation
+  <br>
+  <br>
+  <img src="https://media.giphy.com/media/duQL8SzUOO4Ey6T7QV/giphy.gif"/>
+</h1>
 
 This repository contains a C++ code that simulates the movement of a ball towards a target while avoiding an obstacle. The simulation is implemented using the Win32 API for graphical representation.
 
